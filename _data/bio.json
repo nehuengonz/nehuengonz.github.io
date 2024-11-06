@@ -1,22 +1,28 @@
 {
   "basics": {
     "name": "Facundo Nehuen Gonzalez",
-    "label": "advanced Student on informatic engineering",
+    "label": "Advanced Student in Informatic Engineering",
     "picture": "",
     "email": "facundogonzalezmdp@gmail.com",
     "phone": "2233005997",
     "website": "https://nehuengonz.github.io/",
-    "summary": "I am in my 4th year studying Informatic engineering in the National University of Mar del Plata on Argentina,i spected graduation is on 2026",
-    "location": { "address": "", "postalCode": "7600", "city": "Mar Del Plata", "country": "Argentina", "region": "Provincia de Buenos Aires" },
+    "summary": "I am in my 4th year studying Informatic engineering at the National University of Mar del Plata in Argentina. Expected graduation is in 2026.",
+    "location": {
+      "address": "",
+      "postalCode": "7600",
+      "city": "Mar Del Plata",
+      "country": "Argentina",
+      "region": "Provincia de Buenos Aires"
+    },
     "profiles": [
       { "network": "github", "username": "nehuengonz", "url": "https://github.com/nehuengonz" },
-      { "network": "linkedin", "username": "nehuen gonzalez", "url": "https://www.linkedin.com/in/nehuen-gonzalez-9522a116a/" }
+      { "network": "linkedin", "username": "nehuen gonzalez", "url": "https://www.linkedin.com/in/nehuen-gonzalez-9522a116a/" },
       { "network": "instagram", "username": "g_nehuen", "url": "https://www.instagram.com/g_nehuen/" }
     ]
   },
   "interests": [
     { "name": "Machine learning" },
-    { "name": "backend development" },
+    { "name": "Backend development" },
     { "name": "Game development" },
     { "name": "Japanese" }
   ],
@@ -33,11 +39,10 @@
   "education": [
     {
       "institution": "National University of Mar Del Plata, Buenos Aires, Argentina",
-      "area": "Informatic Engineering ",
+      "area": "Informatic Engineering",
       "studyType": "Engineering",
       "endDate": "Present",
-      "courses": [
-      ]
+      "courses": []
     }
   ],
   "work": [
@@ -48,9 +53,7 @@
       "startDate": "",
       "endDate": "",
       "summary": "",
-      "highlights": [
-        "",
-      ]
+      "highlights": []
     },
     {
       "company": "",
@@ -59,13 +62,9 @@
       "startDate": "",
       "endDate": "",
       "summary": "",
-      "highlights": [
-        "",
-        ""
-      ]
+      "highlights": []
     }
   ],
-    },
   "awards": [
     {
       "title": "B+ Scholarship",
@@ -77,7 +76,7 @@
       "title": "First place",
       "date": "2015",
       "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "summary": "My team won first place in 2015. See my portfolio site for more details."
     }
   ],
   "references": [
@@ -86,3 +85,4 @@
     }
   ]
 }
+
