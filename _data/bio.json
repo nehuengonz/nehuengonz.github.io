@@ -6,7 +6,7 @@
     "email": "facundogonzalezmdp@gmail.com",
     "phone": "2233005997",
     "website": "https://nehuengonz.github.io/",
-    "summary": "I am in my 4th year studying Informatic engineering at the National University of Mar del Plata in Argentina. Expected graduation is in 2026.",
+    "summary": "I'm in advanced student in the career of software engineere at the National University of Mar del Plata in Argentina. Expected graduation is in 2026.",
     "location": {
       "address": "",
       "postalCode": "7600",
@@ -67,21 +67,21 @@
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+      "title": "",
+      "date": "",
+      "awarder": "",
+      "summary": "."
     },
     {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015. See my portfolio site for more details."
+      "title": "",
+      "date": "",
+      "awarder": "",
+      "summary": ""
     }
   ],
   "references": [
     {
-      "name": "Available upon request"
+      "name": ""
     }
   ]
 }
